@@ -7,7 +7,9 @@ For more information, please take a look at Report.pdf. Opening practical3.idb i
 
 Usage
 ------
-Unzip practical3_patched.zip with password "malware" and run the executable inside. WARNING: This zip file contains real, potentially harmful malware. It has been modified to not communicate with the attacker's command and control server, so it is unlikely that any harm will be done, but is still malware, so precautions should be taken when executing it. I only ran it in a virtual machine that wasn't connected to the Internet.
+Unzip practical3_patched.zip with password "malware" and run the executable inside.
+
+WARNING: This zip file contains real, potentially harmful malware. It has been modified to not communicate with the attacker's command and control server, so it is unlikely that any harm will be done, but is still malware, so precautions should be taken when executing it. I only ran it in a virtual machine that wasn't connected to the Internet.
 
 Open one terminal window and issue:
 `python CCServer.py`
